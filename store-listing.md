@@ -1,5 +1,8 @@
 # Microsoft Store Listing — meer
 
+> Plain-text formatted (Microsoft Store does not render Markdown in descriptions).
+> Use uppercase section headers with em-dash dividers and `・` for bullets.
+
 ---
 
 ## en-US
@@ -14,29 +17,29 @@ Peek inside GitHub and GitLab repositories on Windows — no Git knowledge requi
 
 meer is a dedicated repository viewing app for Windows, built for people who are just getting started with Git, and for those who simply need to "take a quick look" inside a repository — whether for code reviews or checking documentation.
 
-**Behind the name**
+— BEHIND THE NAME —
 
 The name "meer" comes from the meerkat, an animal known for living in groups and watching its surroundings carefully. meer is your companion for watching over and peeking into code and docs.
 
-**We obsessed over every visual detail**
+— WE OBSESSED OVER EVERY VISUAL DETAIL —
 
 Because this is an app made for "viewing", we obsessively pursued a UI that feels good at a glance, a layout that doesn't tire your eyes over long sessions, and a color palette that blends naturally with your Windows theme.
 
-**What it solves**
+— WHAT IT SOLVES —
 
-- **Complicated Git operations: not required** — open and view contents on the spot
-- Provider selection: **switch freely between GitHub and GitLab anytime**
-- Picking a repository and branch: **just select from the dropdowns**
-- When you need a file: **download it right there** (individual file / folder / entire branch as ZIP)
+・Complicated Git operations: not required — open and view contents on the spot
+・Provider selection: switch freely between GitHub and GitLab anytime
+・Picking a repository and branch: just select from the dropdowns
+・When you need a file: download it right there (individual file / folder / entire branch as ZIP)
 
-**Other things you can do**
+— OTHER THINGS YOU CAN DO —
 
-- Preview text, Markdown, and images
-- Public repositories require no authentication; configure a Personal Access Token (PAT) to access private repositories
-- Works with GitHub.com, GitHub Enterprise, GitLab.com, and self-hosted GitLab
-- Light and Dark themes, multilingual UI (English / 日本語 / Español)
+・Preview text, Markdown, and images
+・Public repositories require no authentication; configure a Personal Access Token (PAT) to access private repositories
+・Works with GitHub.com, GitHub Enterprise, GitLab.com, and self-hosted GitLab
+・Light and Dark themes, multilingual UI (English / 日本語 / Español)
 
-**Privacy**
+— PRIVACY —
 
 Your Personal Access Token is encrypted locally with Windows DPAPI. We send no telemetry and no analytics. Your data never reaches the developer.
 
@@ -57,29 +60,29 @@ Gitの知識がなくても、GitHub・GitLabのリポジトリの中身を見�
 
 meer は、はじめて Git に触れる初心者や、コードレビュー・資料確認のためにリポジトリを「ちょっと見たい」だけの方のために作られた、リポジトリ閲覧専用のデスクトップアプリです。
 
-**名前の由来**
+― 名前の由来 ―
 
 アイコンの「ミーア」は、群れで助け合いながら周りをじっくり見渡すミーアキャット（meerkat）から名付けました。コードや資料を「見守る」「のぞきにいく」あなたの相棒です。
 
-**見た目にとことんこだわりました**
+― 見た目にとことんこだわりました ―
 
 「見ること」のためのアプリだからこそ、一目見て気持ちのいい UI、長時間でも疲れないレイアウト、Windows のテーマに自然になじむ配色を徹底的に追求しました。
 
-**こんな悩みを解決します**
+― こんな悩みを解決します ―
 
-- **むずかしいGit操作：不要**　その場で開いて中身を確認できます
-- プロバイダ選択：**GitHub も GitLab も後から自由に切り替え可能**
-- リポジトリ・ブランチの選び方：**プルダウンから順番に選ぶだけ**
-- ファイルが欲しいとき：**その場でダウンロード**（個別ファイル／フォルダ／ブランチ丸ごと ZIP）
+・むずかしいGit操作：不要　その場で開いて中身を確認できます
+・プロバイダ選択：GitHub も GitLab も後から自由に切り替え可能
+・リポジトリ・ブランチの選び方：プルダウンから順番に選ぶだけ
+・ファイルが欲しいとき：その場でダウンロード（個別ファイル／フォルダ／ブランチ丸ごと ZIP）
 
-**ほかにできること**
+― ほかにできること ―
 
-- テキスト、Markdown、画像のプレビュー
-- 公開リポジトリは認証なし、Personal Access Token（PAT）を設定すればプライベートリポジトリにもアクセス可
-- GitHub.com / GitHub Enterprise / GitLab.com / セルフホスト GitLab に対応
-- ライト・ダーク テーマ、UI 言語切替（English / 日本語 / Español）
+・テキスト、Markdown、画像のプレビュー
+・公開リポジトリは認証なし、Personal Access Token（PAT）を設定すればプライベートリポジトリにもアクセス可
+・GitHub.com / GitHub Enterprise / GitLab.com / セルフホスト GitLab に対応
+・ライト・ダーク テーマ、UI 言語切替（English / 日本語 / Español）
 
-**プライバシー**
+― プライバシー ―
 
 Personal Access Token は Windows DPAPI でローカル暗号化されます。テレメトリや分析情報の送信は一切ありません。あなたのデータが開発者に届くことはありません。
 
@@ -100,29 +103,29 @@ Mira el contenido de repositorios de GitHub y GitLab sin saber Git, desde tu esc
 
 meer es una aplicación de escritorio dedicada a la visualización de repositorios, creada para principiantes que se inician en Git y para quienes solo necesitan "echar un vistazo" a un repositorio — como en revisiones de código o consultas de documentación.
 
-**El origen del nombre**
+— EL ORIGEN DEL NOMBRE —
 
 El nombre "meer" proviene del meerkat (suricata), un animal que en grupo vigila atentamente su entorno. Es tu compañero para "vigilar" y "asomarte" al código y a los documentos.
 
-**Cuidamos cada detalle visual**
+— CUIDAMOS CADA DETALLE VISUAL —
 
 Como es una aplicación pensada para "ver", hemos perseguido obsesivamente una interfaz agradable a primera vista, una disposición que no canse tras horas de uso, y una paleta que se integra de forma natural con el tema de Windows.
 
-**Resolvemos estos problemas**
+— RESOLVEMOS ESTOS PROBLEMAS —
 
-- **Operaciones de Git complicadas: innecesarias** — abre y consulta el contenido al instante
-- Selección de proveedor: **cambia libremente entre GitHub y GitLab cuando quieras**
-- Cómo elegir repositorio y rama: **solo selecciona desde los menús desplegables**
-- Cuando necesitas un archivo: **descárgalo al momento** (archivo individual / carpeta / rama completa como ZIP)
+・Operaciones de Git complicadas: innecesarias — abre y consulta el contenido al instante
+・Selección de proveedor: cambia libremente entre GitHub y GitLab cuando quieras
+・Cómo elegir repositorio y rama: solo selecciona desde los menús desplegables
+・Cuando necesitas un archivo: descárgalo al momento (archivo individual / carpeta / rama completa como ZIP)
 
-**Otras cosas que puedes hacer**
+— OTRAS COSAS QUE PUEDES HACER —
 
-- Vista previa de texto, Markdown e imágenes
-- Repositorios públicos sin autenticación; configura un Personal Access Token (PAT) para acceder a repositorios privados
-- Compatible con GitHub.com, GitHub Enterprise, GitLab.com y GitLab autoalojado
-- Tema claro / oscuro, interfaz multilingüe (English / 日本語 / Español)
+・Vista previa de texto, Markdown e imágenes
+・Repositorios públicos sin autenticación; configura un Personal Access Token (PAT) para acceder a repositorios privados
+・Compatible con GitHub.com, GitHub Enterprise, GitLab.com y GitLab autoalojado
+・Tema claro / oscuro, interfaz multilingüe (English / 日本語 / Español)
 
-**Privacidad**
+— PRIVACIDAD —
 
 El Personal Access Token se cifra localmente mediante Windows DPAPI. No se envían datos de telemetría ni análisis. Tu información nunca llega al desarrollador.
 
