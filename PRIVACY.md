@@ -62,3 +62,36 @@ meer は 13 歳未満の子どもを対象としておらず、意図的にデ�
 
 ### お問い合わせ
 ご質問は GitHub リポジトリの Issue からお願いします。
+
+---
+
+## Español
+
+### Datos recopilados por el desarrollador
+meer **no** recopila, transmite ni almacena datos personales en servidores operados por el desarrollador.
+Esto incluye análisis, telemetría, informes de errores, contenido del usuario e identificadores del dispositivo.
+
+### Datos almacenados localmente
+Todos los datos permanecen en tu equipo en `%AppData%\meer\`:
+
+| Datos | Propósito |
+|---|---|
+| Personal Access Token (PAT) | Cifrado con Windows DPAPI (safeStorage) |
+| Preferencias de la aplicación (tema, idioma, último proveedor/propietario usado) | Guardado como JSON; nunca se transmite |
+
+Al desinstalar la aplicación se eliminan todos los datos almacenados localmente.
+
+### Acceso a APIs de terceros
+Cuando navegas por un repositorio, meer envía solicitudes a la API directamente al proveedor que hayas elegido (GitHub o GitLab). El desarrollador no tiene visibilidad ni control sobre los datos intercambiados entre tu equipo y esos servicios. Por favor, no uses meer para navegar por repositorios cuyo contenido sea confidencial.
+
+- [Política de privacidad de GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+- [Política de privacidad de GitLab](https://about.gitlab.com/privacy/)
+
+### Microsoft Store
+Si instalaste meer a través de Microsoft Store, Microsoft puede recopilar telemetría estándar de instalación/uso según su propia declaración de privacidad, de forma independiente a esta aplicación.
+
+### Menores
+meer no está dirigida a menores de 13 años y no recopila intencionadamente datos de ellos.
+
+### Contacto
+¿Tienes preguntas o inquietudes? Abre un issue en el repositorio de GitHub.
