@@ -1,8 +1,10 @@
 # meer
 
-🌐 [English](#english) ・ [日本語](#日本語) ・ [Español](#español)
+🌐 [English](#en) ・ [日本語](#ja) ・ [Español](#es)
 
 ---
+
+<a id="en"></a>
 
 ## English
 
@@ -49,6 +51,8 @@ meer does **not** collect any telemetry or user data. Your PAT is encrypted loca
 
 ---
 
+<a id="ja"></a>
+
 ## 日本語
 
 **meer** は Windows 向けのフレームレスデスクトップ GitHub / GitLab リポジトリブラウザです。
@@ -93,6 +97,8 @@ meer はテレメトリやユーザーデータを **一切収集しません**�
 [MIT](LICENSE) © 2026 misstouch-taro
 
 ---
+
+<a id="es"></a>
 
 ## Español
 
